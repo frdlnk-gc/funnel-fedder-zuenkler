@@ -1,0 +1,37 @@
+{
+ "name": "creative-2-collage",
+ "logo": "logo-hd.png",
+ "fotos": [
+  "img/foto-hd-gruenpflege-maehen.jpg",
+  "img/foto-hd-firmensitz-laer.jpg",
+  "img/foto-hd-winterdienst.jpg"
+ ],
+ "fokus": [
+  [
+   0.82,
+   0.45
+  ],
+  [
+   0.45,
+   0.55
+  ],
+  [
+   1.0,
+   0.5
+  ]
+ ],
+ "primary": "#2FA43B",
+ "ink": "#1F2A44",
+ "headline": [
+  "Landschafts-",
+  "gärtner für den",
+  "Innendienst"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "ort": "Laer · Münster · Steinfurt",
+ "cta": [
+  "Jetzt unverbindliches",
+  "Job-Angebot erhalten –",
+  "mit 1 Klick!"
+ ]
+}

@@ -1,0 +1,46 @@
+[
+ {
+  "name": "creative-3-wir-suchen",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-gruenpflege-maehen.jpg",
+  "primary": "#2FA43B",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "panel_bg": "#3C578E",
+  "kicker": "WIR SUCHEN IN LAER & UMGEBUNG",
+  "headline": [
+   "Landschaftsgärtner für",
+   "den Innendienst (m/w/d)"
+  ],
+  "subline": "Dein Fachwissen aus der Grünpflege – künftig vom Büro aus.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.8,
+   0.5
+  ]
+ },
+ {
+  "name": "creative-4-checkliste",
+  "logo": "logo-hd.png",
+  "foto": "img/foto-hd-firmensitz-laer.jpg",
+  "primary": "#2FA43B",
+  "panel": "bottom",
+  "panel_hoehe": 0.55,
+  "panel_bg": "#FFFFFF",
+  "kicker": "WIR SUCHEN IN LAER & UMGEBUNG",
+  "headline": [
+   "Landschaftsgärtner für",
+   "den Innendienst (m/w/d)"
+  ],
+  "checkliste": [
+   "Überdurchschnittliche Vergütung + Prämien",
+   "Unbefristeter Vertrag",
+   "Flache Hierarchien, viel Eigenverantwortung"
+  ],
+  "cta": "Job-Angebot in 60 Sekunden erhalten",
+  "fokus": [
+   0.45,
+   0.5
+  ]
+ }
+]

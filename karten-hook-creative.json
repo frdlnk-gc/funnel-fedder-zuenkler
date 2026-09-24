@@ -1,0 +1,22 @@
+{
+ "name": "creative-1-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "img/foto-hd-geschaeftsfuehrer.jpg",
+ "fokus": [
+  0.5,
+  0.3
+ ],
+ "karte": "img/karte.jpg",
+ "primary": "#2FA43B",
+ "headline": [
+  "LANDSCHAFTS-",
+  "GÄRTNER FÜR DEN",
+  "INNENDIENST"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Laer · Münster · Steinfurt & Umgebung"
+}
