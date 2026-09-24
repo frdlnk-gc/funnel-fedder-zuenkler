@@ -1,0 +1,132 @@
+{
+  "firma": "Fedder und Zünkler",
+  "stelle": "Landschaftsgärtner für den Innendienst (m/w/d)",
+  "ort": "Laer",
+  "plz": "48366",
+  "branche": "galabau",
+  "farbe_primary": "#2FA43B",
+  "farbe_secondary": "#3C578E",
+  "region_badge": "Laer & Umgebung",
+  "benefit_top": "Überdurchschnittliche Vergütung",
+  "benefits": [
+    "Attraktive, überdurchschnittliche Vergütung sowie Prämien",
+    "Sicherer Arbeitsplatz mit unbefristetem Vertrag",
+    "Selbstständiges, abwechslungsreiches Tätigkeitsfeld mit viel Eigenverantwortung",
+    "Teamorientiertes Arbeiten in flachen Hierarchien",
+    "Individuelle Entwicklungsmöglichkeiten",
+    "Tolles Betriebsklima & wertschätzende Unternehmenskultur"
+  ],
+  "aufgaben": [
+    "Du bringst dein Fachwissen aus Grünpflege und Außenreinigung künftig vom Büro aus ein – und steuerst die Leistungserbringung an bundesweit über 2.500 betreuten Liegenschaften mit",
+    "Du erstellst Angebote, bearbeitest Aufträge und machst Ortsbegehungen inklusive Aufmaß",
+    "Du koordinierst Termine, disponierst Einsätze und arbeitest mit dem Warenwirtschaftssystem",
+    "Du bist die kompetente Schnittstelle zwischen Kunden, Partnern und Lieferanten"
+  ],
+  "anforderung": "Ausbildung als Garten- und Landschaftsbauer, Gärtner/-meister oder Agrartechniker plus Berufserfahrung. Du kennst Grünpflege und Außenreinigung aus der Praxis, arbeitest sicher mit MS Office und organisierst dich selbstständig und strukturiert.",
+  "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+  "fachrichtungen": [
+    {
+      "label": "Garten- & Landschaftsbau",
+      "icon": "🌿",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Landschaftsgärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Gärtner / Gärtnermeister",
+      "icon": "🌱",
+      "qualifikationen": [
+        {
+          "label": "Ausgebildeter Gärtner",
+          "icon": "🎓"
+        },
+        {
+          "label": "Gärtnermeister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Agrartechnik / Landwirtschaft",
+      "icon": "🚜",
+      "qualifikationen": [
+        {
+          "label": "Staatlich geprüfter Agrartechniker",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / andere Agrar-Ausbildung",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    },
+    {
+      "label": "Anderer Bereich",
+      "icon": "🛠️",
+      "qualifikationen": [
+        {
+          "label": "Ausbildung in einem anderen Beruf",
+          "icon": "🎓"
+        },
+        {
+          "label": "Meister / Techniker",
+          "icon": "🏅"
+        },
+        {
+          "label": "Erfahren ohne Ausbildung",
+          "icon": "💪"
+        }
+      ]
+    }
+  ],
+  "ueber": {
+    "fakten": [
+      {
+        "zahl": "15",
+        "label": "Mitarbeiter"
+      },
+      {
+        "zahl": "2010",
+        "label": "gegründet"
+      },
+      {
+        "zahl": "5.500+",
+        "label": "Partner"
+      }
+    ],
+    "text": "Fedder und Zünkler aus Laer gehört deutschlandweit zu den führenden Unternehmen für Freiflächenmanagement: Grünpflege, Außenreinigung und Winterdienst für gewerbliche und kommunale Auftraggeber – gesteuert an mehr als 2.500 Liegenschaften, mit einem Netzwerk aus über 5.500 Partnern. Die Werte dahinter: Qualität, Zuverlässigkeit und Vertrauen."
+  },
+  "kunde_tab": "12 Fedder und Zünkler",
+  "quelle": "https://fedder-zuenkler.green-careers.de",
+  "logo": "logo.png",
+  "karte": {
+    "bild": "img/karte.jpg",
+    "label": "Laer"
+  },
+  "hero_bild": "img/hero.jpg",
+  "bilder": [
+    "img/f1-gruenpflege.jpg",
+    "img/f2-aussenreinigung.jpg",
+    "img/f3-winterdienst.jpg",
+    "img/f4-laubblaeser.jpg"
+  ]
+}
